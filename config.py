@@ -1,8 +1,7 @@
 # config.py
 
 # Dropbox Access Token
-DROPBOX_ACCESS_TOKEN = 'sl.B-bLq4FscBVjsd9IukEuk3HrSomUlheEahqKu0AvMa40PVXv-3GcAL0kXBrIhZvW3rUCV-uuOmgtprsWDFgQnsa6rVObvYE2QEE1eJysEpQDu-guN4tlOItnETw1yT6PGVANOXQOFdMx'
-
+DROPBOX_ACCESS_TOKEN = 'sl.B-qLM4855ijZXRjBmVUCQS5X90uAssk7YieO3VgfdPKSjONOd7EyJjOxC-GNtKMpotiC1iUKBn-whp2wu2tvvTAAde_VaEhQEYpvNlaTmZ_hExWxlG7txSWSuBz_cxf9M3WWyYqHm_DQ'
 # Google Maps API Key
 GOOGLE_MAPS_API_KEY = 'AIzaSyBgbc3d5fA4t5CBDJ8HBfYhJsjORRJnf08'
 
